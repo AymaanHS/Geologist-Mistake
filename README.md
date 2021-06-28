@@ -1,1 +1,2 @@
-# Geologist-Mistake
+# Geologist
+Geologist Project
